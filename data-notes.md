@@ -17,11 +17,11 @@
 ## Waterway (river & Stream) 
 - Source: QuickOSM plugin from QGIS software
 - Downloaded: 21st September, 2026
-river
+# river
 - 3 features, line
 - Columns: full_id (text), osm_id (text), osm_type (text), waterway (text), tunnel (text), layer (text), name (text)
 - Covers my ward fully
-strem
+# stream
 - 3 features, line
 - Columns: full_id (text), osm_id (text), osm_type (text), waterway (text)
 - Covers my ward fully
