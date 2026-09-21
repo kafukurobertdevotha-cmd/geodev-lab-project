@@ -31,8 +31,8 @@
 - Downloaded: 21st September, 2026
 
 ## CRS and preparation
--All source layers arrived in EPSG:4326
--Study area: Mbugani_mirongo, extracted from humdata.org (tza_admbnda_adm3)
--All layers reprojected to EPSG:32736 and clipped to the study area
--Area check: Mirongo, Pamba & Mbugani 7.4km2, a little change with published figure
+- All source layers arrived in EPSG:4326
+- Study area: Mbugani_mirongo, extracted from humdata.org (tza_admbnda_adm3)
+- All layers reprojected to EPSG:32736 and clipped to the study area
+- Area check: Mirongo, Pamba & Mbugani 7.4km2, a little change with published figure
 - Working files in data/processed/, raw files untouched
