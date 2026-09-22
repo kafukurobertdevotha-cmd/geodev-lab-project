@@ -79,4 +79,7 @@ The project is expected to produce the interactive maps showing 60m river-buffer
 
 Also the project will not only produce a one-time map and where updated information (settlement) is available will be reviewed approximately every three months.
 
+---
+
+**Status"** Week 1 complete: Choosing Question and data can answer
 
