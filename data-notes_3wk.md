@@ -109,5 +109,4 @@ I proceed with the downloaded one for learning purpose while looking for the pub
 
 **Status"** Week 3 complete: Coordinate systems and preparing data
 
-- Area check: Mirongo, Pamba & Mbugani 7.4km2, a little change with published figure
-- Working files in data/processed/, raw files untouched
+
