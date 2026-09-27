@@ -79,7 +79,7 @@ I proceed with the downloaded one for learning purpose while looking for the pub
 - **Format:** Geopackage
 - **CRS:** EPSG:32736 UTM36s
 - **Features:** 4, line
-- **Columns:** OBJECTID (integer64), country (text), iso3 (text), building_count (interger64), building_area (Decimal), type (text), probability (Decimal), Date (text), source (text), mgrs_code (text)
+- **Columns:** full_id (text), osm_id (text), osm_type (text), building (text), community_centre (text), construction (text), cuisine (text), shop (text), smoking (text), government (text), administrative (text), addr:region (text), operator (text), man_made (text), access (text), description (text), nature (text), healthcare:speciality (text), emergency (text), dispensing (text), layer (text), addr:housenumber (text), religion (text), denomination (text), wheelchair (text), payment:debit_cards (text), payment:credit_cards (text), payment:cards (text), operator:type (text), internet_access (text), check_date (text), isced:level (text), addr:district (text), amenity (text), reg_name (text), website (text), office (text), tourism (text), opening_hours (text), name (text), addr:street (text), building:roof (text), building:material (text), building:levels (text), building:condition (text), building:age (text), addr:ward (text), addr:subward (text), addr:municipality (text), addr:city (text), type (text).
 - **Produced by:** "manually in QGIS"
 
 **File:** "D:\GeoDev\My-project\Data\Processed\Settlement\building_wards.gpkg"
