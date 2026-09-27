@@ -58,5 +58,5 @@ The intersection were done for settlement extent and buildings wthin my study ar
 
 ## 5. Settlement extent map after spatial operation analysis
 
-|[Study Area map](settlement_extent_wards.png)
+![Study Area map](settlement_extent_wards.png)
 
