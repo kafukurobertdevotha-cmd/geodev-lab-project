@@ -16,7 +16,8 @@ What I reprojected, what I clipped, what I checked and what I fixed.
 | Dataset | CRS as downloaded | CRS projected | Operation |
 |---|---|---|---|
 | Boundary | EPSG:4326 | EPSG:32736 | Reprojected |
-|Settlement extent | EPSG:4326 | EPSG:32736 | Reprojected |
+| Settlement extent | EPSG:4326 | EPSG:32736 | Reprojected |
+| Building | EPSG:4326 | EPSG: 32736 | Reprojected |
 | Waterway | EPSG:4326| EPSG:32736 | Reprojected |
 | Elevation | EPSG:4326 | EPSG:32736 | Reprojected |
 
@@ -27,6 +28,10 @@ What I reprojected, what I clipped, what I checked and what I fixed.
 ### Settlement extent data
 -**Features before clipping:** 667240
 -**Features after clipping:** 4
+
+### Building data
+-**Features before clipping:** 28803
+-**Features after clipping:** 17184
 
 ### Waterway data
 #### rivers
@@ -77,7 +82,13 @@ I proceed with the downloaded one for learning purpose while looking for the pub
 - **Columns:** OBJECTID (integer64), country (text), iso3 (text), building_count (interger64), building_area (Decimal), type (text), probability (Decimal), Date (text), source (text), mgrs_code (text)
 - **Produced by:** "manually in QGIS"
 
-
+**File:** "D:\GeoDev\My-project\Data\Processed\Settlement\building_wards.gpkg"
+- **Format:** Geopackage
+- **CRS:** EPSG:32736 UTM36s
+- **Features:** 17184, polygon
+- **Columns:** OBJECTID (integer64), country (text), iso3 (text), building_count (interger64), building_area (Decimal), type (text), probability (Decimal), Date (text), source (text), mgrs_code (text)
+- **Produced by:** "manually in QGIS"
+  
 **File:** "D:\GeoDev\My-project\Data\Processed\Waterway\water_river_mbugn_mirong_pamba_utm32S_clipped.gpkg"
 - **Format:** Geopackage
 - **CRS:** EPSG:32736 UTM36s
