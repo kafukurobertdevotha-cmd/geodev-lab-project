@@ -2,6 +2,8 @@
 
 Week 1 deliverable. GeoDv Lab Africa, Cohort One. Author: Devotha Kafuku
 
+---
+
 # 1. Project Title
 
 GIS-based mapping and Monitoring of Settlements within 60m of Rivers in Mbugani, Mirongo and Pamba Wards, Nyamagana District, Mwanza.
