@@ -1,5 +1,11 @@
 ## Data notes
 
+**Week 2 deliverable.** GeoDv Lab Africa, Cohort One.
+
+Author: Devotha Kafuku
+
+---
+
 ## 1. Tanzania ward level data 
 - Source: https://data.humdata.org 
 - Downloaded: 21st September, 2026
