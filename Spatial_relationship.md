@@ -60,3 +60,6 @@ The intersection were done for settlement extent and buildings wthin my study ar
 
 ![Study Area map](settlement_wards_map.png)
 
+---
+
+**Status"** Week 4 complete: Spatial relationship and analysis
