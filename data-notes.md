@@ -46,5 +46,5 @@ Author: Devotha Kafuku
 
 ---
 
-Status: *Week 2 - Data notes completed*
-  
+**Status:** Week 2 - Data notes completed
+
