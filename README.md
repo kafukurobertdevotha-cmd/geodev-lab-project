@@ -20,12 +20,12 @@ for full brief
 
 <pre>
 geodev-lab-project/
-├── README.md
-├── 01-project-brief.md           Week 1
-├── 02-data-notes.md              Week 2
-├── 03-Data-preparation           Week 3
-├── 04-Spatial_relationship.md    Week 4
-└── settlement_wards_map.png      Week 4
+├── <a href="./README.md">README.md</a>
+├── <a href="./01-project-brief.md">01-project-brief.md</a>           Week 1
+├── <a href="./02-data-notes.md">02-data-notes.md</a>              Week 2
+├── <a href="./03-Data-preparation">03-Data-preparation</a>           Week 3
+├── <a href="./04-Spatial_relationship.md">04-Spatial_relationship.md</a>    Week 4
+└── <a href="./settlement_wards_map.png">settlement_wards_map.png</a>      Week 4
 </pre>
 
 ## Progress
