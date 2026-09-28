@@ -15,6 +15,19 @@ Built over twelve months with with GeoDev Lab Africa, Cohort one
 [See Project brief](project-brief), 
 
 for full brief
+
+# What's in here
+
+<pre>
+geodev-lab-project/
+├── README.md
+├── 01-project-brief.md           Week 1
+├── 02-data-notes.md              Week 2
+├── 03-Data-preparation           Week 3
+├── 04-Spatial_relationship.md    Week 4
+└── settlement_wards_map.png      Week 4
+</pre>
+
 ## Progress
 
 - [x] Week 1, project brief with a source link for every dataset
