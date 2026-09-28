@@ -43,4 +43,8 @@ Author: Devotha Kafuku
 ## 5. Elevation data 
 - Source: https://earthexplorer.usgs.gov/ 
 - Downloaded: 21st September, 2026
+
+---
+
+Status: *Week 2 - Data notes completed*
   
