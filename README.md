@@ -38,6 +38,13 @@ geodev-lab-project/
 
 ---
 
+
+## Month 2: development Environment and Early Python
+
+- Week 5: I setup python, VS code and the terminal, hello.py run
+
+---
+
 Devotha Robert Kafuku GeoDev Lab Africa
 
 Learn. Build. Collaborate. Transform
