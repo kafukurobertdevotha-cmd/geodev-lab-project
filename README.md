@@ -42,6 +42,7 @@ geodev-lab-project/
 ## Month 2: development Environment and Early Python
 
 - Week 5: I setup python, VS code and the terminal, hello.py run
+- Week 6: I set up the project with uv and added pandas, check.py prints the pandas version
 
 ---
 
