@@ -44,6 +44,7 @@ geodev-lab-project/
 - Week 5: I setup python, VS code and the terminal, hello.py run
 - Week 6: I set up the project with uv and added pandas, check.py prints the pandas version
 - Week 7: I succeeded to perform Python with six ideas, analyse.py, read ward.csv, converts each area and classify each ward.
+- Week 8: I succeeded to inspect my csv settlement data (inspect_data.py, summaries area in km2 and building count in my settlement data)
 
 ---
 
