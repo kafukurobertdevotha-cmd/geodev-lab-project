@@ -60,18 +60,18 @@ geodev-lab-project/
 └── <a href="./summary.py">summary.py</a>      Week 9
 </pre>
 
-* 📄 [README.md](./README.md)
-* 📁 [screenshots/](./screenshots)
-* 🐍 [hello.py](./hello.py) — **Week 5**
-* ⚙️ [pyproject.toml](./pyproject.toml) — **Week 6**
-* 🔒 [uv.lock](./uv.lock) — **Week 6**
-* 🐍 [check.py](./check.py) — **Week 6**
-* 📊 [wards.csv](./wards.csv) — **Week 7**
-* 🐍 [analyse.py](./analyse.py) — **Week 7**
-* 🐍 [inspect_data.py](./inspect_data.py) — **Week 8**
-* 📊 [wards_settlement.csv](./wards_settlement.csv) — **Week 8**
-* 🐍 [summary.py](./summary.py) — **Week 9**
-* 
+* [README.md](./README.md)
+* [screenshots/](./screenshots)
+* [hello.py](./hello.py) — **Week 5**
+* [pyproject.toml](./pyproject.toml) — **Week 6**
+* [uv.lock](./uv.lock) — **Week 6**
+* [check.py](./check.py) — **Week 6**
+* [wards.csv](./wards.csv) — **Week 7**
+* [analyse.py](./analyse.py) — **Week 7**
+* [inspect_data.py](./inspect_data.py) — **Week 8**
+* [wards_settlement.csv](./wards_settlement.csv) — **Week 8**
+* [summary.py](./summary.py) — **Week 9**
+  
 - Week 5: I setup python, VS code and the terminal, hello.py run
 - Week 6: I set up the project with uv and added pandas, check.py prints the pandas version
 - Week 7: I succeeded to perform Python with six ideas, analyse.py, read ward.csv, converts each area and classify each ward.
