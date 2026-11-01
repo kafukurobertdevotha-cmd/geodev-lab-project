@@ -41,6 +41,37 @@ geodev-lab-project/
 
 ## Month 2: development Environment and Early Python
 
+Month 2 packages, I was able to write a real Python program, run it from terminal and understoon every line of it by runing data I gather them from Month 1 and produce the results. 
+
+# What's in here
+
+<pre>
+geodev-lab-project/
+├── <a href="./README.md">README.md</a>
+├── <a href="./screenshots">screenshots</a>
+├── <a href="./hello.py">05-hello.py</a>           Week 5
+├── <a href="./pyproject.toml">06-pyproject.toml</a>              Week 6
+├── <a href="./uv.lock">06-uv.lock</a>   Week 6
+├── <a href="./check.py">06-check.py</a>              Week 6
+├── <a href="./wards.csv">07-wards.csv</a>        Week 7
+├── <a href="./analyse.py">07-analyse.py</a>        Week 7
+├── <a href="./inspect_data.py">08-inspect_data.py</a>    Week 8
+├── <a href="./wards_settlement.csv">09-wards_settlement.csv</a>    Week 8
+└── <a href="./summary.py">summary.py</a>      Week 9
+</pre>
+
+* 📄 [README.md](./README.md)
+* 📁 [screenshots/](./screenshots)
+* 🐍 [hello.py](./hello.py) — **Week 5**
+* ⚙️ [pyproject.toml](./pyproject.toml) — **Week 6**
+* 🔒 [uv.lock](./uv.lock) — **Week 6**
+* 🐍 [check.py](./check.py) — **Week 6**
+* 📊 [wards.csv](./wards.csv) — **Week 7**
+* 🐍 [analyse.py](./analyse.py) — **Week 7**
+* 🐍 [inspect_data.py](./inspect_data.py) — **Week 8**
+* 📊 [wards_settlement.csv](./wards_settlement.csv) — **Week 8**
+* 🐍 [summary.py](./summary.py) — **Week 9**
+* 
 - Week 5: I setup python, VS code and the terminal, hello.py run
 - Week 6: I set up the project with uv and added pandas, check.py prints the pandas version
 - Week 7: I succeeded to perform Python with six ideas, analyse.py, read ward.csv, converts each area and classify each ward.
