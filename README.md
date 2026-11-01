@@ -49,21 +49,6 @@ Month 2 packages, I was able to write a real Python program, run it from termina
 geodev-lab-project/
 ├── <a href="./README.md">README.md</a>
 ├── <a href="./screenshots">screenshots</a>
-├── <a href="./hello.py">05-hello.py</a>     Week 5
-├── <a href="./pyproject.toml">06-pyproject.toml</a>     Week 6
-├── <a href="./uv.lock">06-uv.lock</a>     Week 6
-├── <a href="./check.py">06-check.py</a>     Week 6
-├── <a href="./wards.csv">07-wards.csv</a>     Week 7
-├── <a href="./analyse.py">07-analyse.py</a>     Week 7
-├── <a href="./inspect_data.py">08-inspect_data.py</a>     Week 8
-├── <a href="./wards_settlement.csv">09-wards_settlement.csv</a>     Week 8
-└── <a href="./summary.py">summary.py</a>     Week 9
-</pre>
-
-<pre>
-geodev-lab-project/
-├── <a href="./README.md">README.md</a>
-├── <a href="./screenshots">screenshots</a>
 ├── <a href="./hello.py">05-hello.py</a>              Week 5
 ├── <a href="./pyproject.toml">06-pyproject.toml</a>        Week 6
 ├── <a href="./uv.lock">06-uv.lock</a>               Week 6
@@ -72,14 +57,14 @@ geodev-lab-project/
 ├── <a href="./analyse.py">07-analyse.py</a>            Week 7
 ├── <a href="./inspect_data.py">08-inspect_data.py</a>       Week 8
 ├── <a href="./wards_settlement.csv">09-wards_settlement.csv</a>  Week 8
-└── <a href="./summary.py">summary.py</a>               Week 9
+└── <a href="./summary.py">09-summary.py</a>               Week 9
 </pre>
   
-- Week 5: I setup python, VS code and the terminal, hello.py run
-- Week 6: I set up the project with uv and added pandas, check.py prints the pandas version
-- Week 7: I succeeded to perform Python with six ideas, analyse.py, read ward.csv, converts each area and classify each ward.
-- Week 8: I succeeded to inspect my csv settlement data (inspect_data.py, summaries area in km2 and building count in my settlement data)
-- Week 9: I succeeded to use refactorised skill to improve the code which I used in week 8 without changing the meaning of the code.
+- [x] Week 5: I setup python, VS code and the terminal, hello.py run
+- [x] Week 6: I set up the project with uv and added pandas, check.py prints the pandas version
+- [x] Week 7: I succeeded to perform Python with six ideas, analyse.py, read ward.csv, converts each area and classify each ward.
+- [x] Week 8: I succeeded to inspect my csv settlement data (inspect_data.py, summaries area in km2 and building count in my settlement data)
+- [x] Week 9: I succeeded to use refactorised skill to improve the code which I used in week 8 without changing the meaning of the code.
 
 ---
 
