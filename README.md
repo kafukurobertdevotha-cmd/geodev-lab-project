@@ -57,7 +57,7 @@ geodev-lab-project/
 ├── <a href="./analyse.py">07-analyse.py</a>            Week 7
 ├── <a href="./inspect_data.py">08-inspect_data.py</a>       Week 8
 ├── <a href="./wards_settlement.csv">09-wards_settlement.csv</a>  Week 8
-└── <a href="./summary.py">09-summary.py</a>             Week 9
+└── <a href="./summary.py">09-summary.py</a>            Week 9
 </pre>
   
 - [x] Week 5: I setup python, VS code and the terminal, hello.py run
