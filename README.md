@@ -72,7 +72,7 @@ geodev-lab-project/
   * In Month 2, I used the settlement extent layer instead of individual buildings, so I fixed this by adding the building facilities dataset.
   * Ward population was also missing in previous months, so I added it to the analysis.
 
-Also, I made a mistake on ward population was not included in the past months, so i fixed it by adding it in my analysis
+
 ---
 
 Devotha Robert Kafuku GeoDev Lab Africa
