@@ -68,9 +68,9 @@ geodev-lab-project/
 
 ## Month 3: Geospatial Python Autimation
 
--  Week 10: GeoPandas. Loaded, checked, joined and mapped ward with population data and wards_building layer in code
-
-In Month 2, I went wrong instead of using buildings I used settlemnt which was an extent, so I fix it by adding building facilities
+* **Week 10:** GeoPandas. Loaded, checked, joined and mapped ward with population data and `wards_building` layer in code.
+  * In Month 2, I used the settlement extent layer instead of individual buildings, so I fixed this by adding the building facilities dataset.
+  * Ward population was also missing in previous months, so I added it to the analysis.
 
 Also, I made a mistake on ward population was not included in the past months, so i fixed it by adding it in my analysis
 ---
